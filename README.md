@@ -16,3 +16,6 @@
 3. Flash Rom zip (If face error flash super_empty.img or try merge snapshot)
 4. Clean cache (format data if coming from different rom)
 5. Boot
+
+# Firmware download (Recommended 2.6.0)
+https://drive.google.com/drive/folders/1F-LD3pjx7mrjzpEYGvoeZ81s1ZUxXvQz?usp=sharing
